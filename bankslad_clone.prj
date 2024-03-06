@@ -55,6 +55,42 @@
             "name": "banksalad_logo.png",
             "relType": 1,
             "path": "Assets\\"
+          },
+          {
+            "type": 8,
+            "name": "banksalad_svg1.svg",
+            "relType": 1,
+            "path": "Assets\\"
+          },
+          {
+            "type": 8,
+            "name": "banksalad_svg2.svg",
+            "relType": 1,
+            "path": "Assets\\"
+          },
+          {
+            "type": 8,
+            "name": "banksalad_svg3.svg",
+            "relType": 1,
+            "path": "Assets\\"
+          },
+          {
+            "type": 8,
+            "name": "banksalad_sub_background.png",
+            "relType": 1,
+            "path": "Assets\\"
+          },
+          {
+            "type": 8,
+            "name": "app-store.png",
+            "relType": 1,
+            "path": "Assets\\"
+          },
+          {
+            "type": 8,
+            "name": "google-play.png",
+            "relType": 1,
+            "path": "Assets\\"
           }
         ]
       },
