@@ -1,92 +1,4 @@
-<div data-base="AView" data-class="MainView" class="AView-Style" style="left: 0px; top: 0px; width: 100%; height: auto; background-color: rgb(239, 239, 239); position: relative; font-family: Pretendard; letter-spacing: -0.5px;" data-browser-width="1680" data-browser-height="920" data-class-map="{&quot;afc&quot;:[&quot;AView&quot;,&quot;AFlexLayout&quot;,&quot;AImage&quot;,&quot;ALabel&quot;,&quot;AGridLayout&quot;,&quot;AButton&quot;]}">
-    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: auto; position: relative; left: 0px; top: 0px; background-color: rgb(255, 255, 255); z-index: 50;" id="MainView--header_area">
-        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 100%; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); max-width: 1680px;" id="MainView--nav_wrap">
-            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 85px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); align-items: center; place-content: flex-start;">
-                <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: auto; align-self: auto;" class="">
-                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: 100%; position: relative; left: 0px; top: 0px; margin-left: 32px; margin-right: 42px; background-color: rgba(0, 0, 0, 0);">
-                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="height: 23px; position: relative; left: 0px; top: 0px; width: 141px;" src="Assets/banksalad_logo.png">
-                    </div>
-                </div>
-                <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: auto; align-self: stretch;">
-                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 100%; position: relative; left: 0px; top: 0px; align-items: center;">
-                        <div style="position: relative; box-sizing: border-box;">
-                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: 100%; position: relative; letter-spacing: -0.08px; font-size: 16px; font-weight: 700; cursor: pointer; display: block; margin-left: 22px; margin-right: 22px; left: 0px; top: 0px; white-space: nowrap;">신용카드</label>
-                        </div>
-                    </div>
-                </div>
-                <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: auto; align-self: stretch;">
-                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 100%; position: relative; left: 0px; top: 0px; align-items: center;">
-                        <div style="position: relative; box-sizing: border-box;">
-                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: 100%; position: relative; letter-spacing: -0.08px; font-size: 16px; font-weight: 700; cursor: pointer; display: block; margin-left: 22px; margin-right: 22px; left: 0px; top: 0px; white-space: nowrap;">신용대출</label>
-                        </div>
-                    </div>
-                </div>
-                <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: auto; align-self: stretch;">
-                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 100%; position: relative; left: 0px; top: 0px; align-items: center;">
-                        <div style="position: relative; box-sizing: border-box;">
-                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: 100%; position: relative; letter-spacing: -0.08px; font-size: 16px; font-weight: 700; cursor: pointer; display: block; margin-left: 22px; margin-right: 22px; left: 0px; top: 0px; white-space: nowrap;">대환대출</label>
-                        </div>
-                    </div>
-                </div>
-                <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: auto; align-self: stretch;">
-                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 100%; position: relative; left: 0px; top: 0px; align-items: center;">
-                        <div style="position: relative; box-sizing: border-box;">
-                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: 100%; position: relative; letter-spacing: -0.08px; font-size: 16px; font-weight: 700; display: block; margin-left: 22px; margin-right: 22px; left: 0px; top: 0px; white-space: nowrap;">주택담보대출</label>
-                        </div>
-                    </div>
-                </div>
-                <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: auto; align-self: stretch;">
-                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 100%; position: relative; left: 0px; top: 0px; align-items: center;">
-                        <div style="position: relative; box-sizing: border-box;">
-                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: 100%; position: relative; letter-spacing: -0.08px; font-size: 16px; font-weight: 700; display: block; margin-left: 22px; margin-right: 22px; left: 0px; top: 0px; white-space: nowrap;">전세자금대출</label>
-                        </div>
-                    </div>
-                </div>
-                <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: auto; align-self: stretch;">
-                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 100%; position: relative; left: 0px; top: 0px; align-items: center;">
-                        <div style="position: relative; box-sizing: border-box;">
-                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: 100%; position: relative; letter-spacing: -0.08px; font-size: 16px; font-weight: 700; display: block; margin-left: 22px; margin-right: 22px; left: 0px; top: 0px; white-space: nowrap;">대출금리쿠폰</label>
-                        </div>
-                    </div>
-                </div>
-                <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: auto; align-self: stretch;">
-                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 100%; position: relative; left: 0px; top: 0px; align-items: center;">
-                        <div style="position: relative; box-sizing: border-box;">
-                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: 100%; position: relative; letter-spacing: -0.08px; font-size: 16px; font-weight: 700; display: block; margin-left: 22px; margin-right: 22px; left: 0px; top: 0px; white-space: nowrap;">신용점수</label>
-                        </div>
-                    </div>
-                </div>
-                <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: auto; align-self: stretch;">
-                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 100%; position: relative; left: 0px; top: 0px; align-items: center;">
-                        <div style="position: relative; box-sizing: border-box;">
-                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: 100%; position: relative; letter-spacing: -0.08px; font-size: 16px; font-weight: 700; display: block; margin-left: 22px; margin-right: 22px; left: 0px; top: 0px; white-space: nowrap;">예적금</label>
-                        </div>
-                    </div>
-                </div>
-                <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: auto; align-self: stretch;">
-                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 100%; position: relative; left: 0px; top: 0px; align-items: center;">
-                        <div style="position: relative; box-sizing: border-box;">
-                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: 100%; position: relative; letter-spacing: -0.08px; font-size: 16px; font-weight: 700; display: block; margin-left: 22px; margin-right: 22px; left: 0px; top: 0px; white-space: nowrap;">무료 건강 검사</label>
-                        </div>
-                    </div>
-                </div>
-                <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: auto; align-self: stretch;">
-                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 100%; position: relative; left: 0px; top: 0px; align-items: center;">
-                        <div style="position: relative; box-sizing: border-box;">
-                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: 100%; position: relative; letter-spacing: -0.08px; font-size: 16px; font-weight: 700; display: block; margin-left: 22px; margin-right: 22px; left: 0px; top: 0px; white-space: nowrap;">자동차보험</label>
-                        </div>
-                    </div>
-                </div>
-                <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: auto; align-self: stretch;">
-                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 100%; position: relative; left: 0px; top: 0px; align-items: center;">
-                        <div style="position: relative; box-sizing: border-box;">
-                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: 100%; position: relative; letter-spacing: -0.08px; font-size: 16px; font-weight: 700; display: block; margin-left: 22px; margin-right: 22px; left: 0px; top: 0px; white-space: nowrap;">돈이 된다! 머니피드</label>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+<div data-base="AView" data-class="MainView" class="AView-Style" style="left: 0px; top: 0px; width: 100%; height: auto; background-color: rgb(255, 255, 255); position: relative; font-family: Pretendard; letter-spacing: -0.5px;" data-browser-width="1680" data-browser-height="920" data-class-map="{&quot;afc&quot;:[&quot;AView&quot;,&quot;AFlexLayout&quot;,&quot;ALabel&quot;,&quot;AImage&quot;,&quot;AGridLayout&quot;,&quot;AButton&quot;]}">
     <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: auto; position: relative; left: 0px; padding-top: 85px; background-color: rgba(0, 0, 0, 0);" id="MainView--body_area">
         <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 480px; position: relative; left: 0px; top: 0px; background-color: rgb(221, 251, 220);" id="MainView--banner_wrap"></div>
         <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: auto; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); border-bottom: 2px solid #F5F5F5;" id="MainView--section1">
@@ -195,6 +107,21 @@
                     </div>
                 </div>
             </div>
+        </div>
+        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; position: relative; left: 0px; top: 0px; padding: 72px 20px; background-color: rgba(0, 0, 0, 0); text-align: center;" id="MainView--section4">
+            <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="position: absolute; top: 74px; left: calc(45% - 350px); width: 156px; height: 37px; background: url(&quot;https://cdn.banksalad.com/cards/companies/shinhan_gray.png&quot;) 0% 0% / cover; border-width: 0px; border-style: solid; opacity: 0.12;">
+            <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="position: absolute; top: 64px; left: calc(55% + 200px); width: 111px; height: 24px; background: url(&quot;https://cdn.banksalad.com/cards/companies/nh_gray.png&quot;) 0% 0% / cover; opacity: 0.12; border-width: 0px; border-style: solid; border-color: rgba(0, 0, 0, 0);">
+            <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="position: absolute;     top: 112px;     left: calc(70% + 200px);     width: 140px;     height: 14px;     background: url(https://cdn.banksalad.com/cards/companies/lotte_gray.png);     background-size: cover; opacity: 0.12;">
+            <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="position: absolute;     top: 160px;     left: calc(65% + 150px);     width: 184px;     height: 37px;     background: url(https://cdn.banksalad.com/cards/companies/hyundai_gray.png);     background-size: cover; opacity: 0.12;">
+            <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="position: absolute;     top: 159px;     left: calc(30% - 250px);     width: 118px;     height: 15px;     background: url(https://cdn.banksalad.com/cards/companies/samsung_gray.png);     background-size: cover; opacity: 0.12;">
+            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 14px; font-weight: 600;" data-pre="true">
+                <pre>뱅크샐러드는 <span class="mobileWordBreak_mXqSv"></span>금융사와의 제휴를 통해<br> 정확한 금융 정보를 전달합니다</pre>
+            </label>
+        </div>
+        <div data-base="AView" data-class="AView" class="AView-Style" style="height: 100%; padding: 32px 10px; color: rgb(92, 129, 138); font-size: 14px; line-height: 21px; letter-spacing: -1px; background-color: rgb(240, 246, 248); text-align: center; position: relative;" id="MainView--section5">
+            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="margin: 0px; padding: 0px; border: 0px; font-size: 100%; font-weight: inherit; letter-spacing: -0.5px; vertical-align: baseline; text-decoration: none; position: relative;" data-pre="true">
+                <pre><p>뱅크샐러드는 IBK기업은행 카드 추천 솔루션 제작부터 <span class="mobileWordBreak_mXqSv"></span>KT CLiP 앱 카드데이터 제휴까지<span class="mobileWordBreak_mXqSv"></span>다양한 파트너와 협업을 진행했습니다.<br><span class="mobileWordBreak_mXqSv"><br></span>국내 최대 금융 데이터와 <span class="mobileWordBreak_mXqSv"></span>고도화된 금융추천엔진을 통해 사업을 발전시키고 싶다면<span class="mobileWordBreak_mXqSv"></span>언제든 <a href="mailto:banksalad@banksalad.com" style="color:#5C818A">banksalad@banksalad.com</a>으로 문의 주세요.</p></pre>
+            </label>
         </div>
     </div>
 </div>

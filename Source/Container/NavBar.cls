@@ -3,7 +3,7 @@
 Constructor
 Do not call Function in Constructor.
 */
-class MainView()
+class NavBar()
 {
 	super();
 
@@ -13,15 +13,15 @@ class MainView()
 extends AView;
 
 
-function MainView*init(context, evtListener)
+function NavBar*init(context, evtListener)
 {
 	super.init(context, evtListener);
 
-	//TODO:edit here
+	this.header_area.setStyle('position', 'fixed');
 
 };
 
-function MainView*onInitDone()
+function NavBar*onInitDone()
 {
 	super.onInitDone();
 
@@ -29,7 +29,7 @@ function MainView*onInitDone()
 
 };
 
-function MainView*onActiveDone(isFirst)
+function NavBar*onActiveDone(isFirst)
 {
 	super.onActiveDone(isFirst);
 

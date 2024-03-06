@@ -91,6 +91,36 @@
             "name": "google-play.png",
             "relType": 1,
             "path": "Assets\\"
+          },
+          {
+            "type": 8,
+            "name": "hyundai_gray.png",
+            "relType": 1,
+            "path": "Assets\\"
+          },
+          {
+            "type": 8,
+            "name": "lotte_gray.png",
+            "relType": 1,
+            "path": "Assets\\"
+          },
+          {
+            "type": 8,
+            "name": "nh_gray.png",
+            "relType": 1,
+            "path": "Assets\\"
+          },
+          {
+            "type": 8,
+            "name": "samsung_gray.png",
+            "relType": 1,
+            "path": "Assets\\"
+          },
+          {
+            "type": 8,
+            "name": "shinhan_gray.png",
+            "relType": 1,
+            "path": "Assets\\"
           }
         ]
       },
@@ -105,16 +135,68 @@
             "path": "Source\\"
           },
           {
-            "type": 2,
-            "name": "MainView.cls",
-            "relType": 1,
-            "path": "Source\\"
+            "type": 1,
+            "name": "Container",
+            "children": [
+              {
+                "type": 2,
+                "name": "MainPage.cls",
+                "action": 5,
+                "relType": 1,
+                "path": "Source\\Container\\",
+                "comment": ""
+              },
+              {
+                "type": 2,
+                "name": "NavBar.cls",
+                "action": 5,
+                "relType": 1,
+                "path": "Source\\Container\\",
+                "comment": ""
+              },
+              {
+                "type": 3,
+                "name": "NavBar.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\Container\\",
+                "comment": ""
+              },
+              {
+                "type": 2,
+                "name": "Footer.cls",
+                "action": 5,
+                "relType": 1,
+                "path": "Source\\Container\\",
+                "comment": ""
+              },
+              {
+                "type": 3,
+                "name": "Footer.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\Container\\",
+                "comment": ""
+              }
+            ]
           },
           {
-            "type": 3,
-            "name": "MainView.lay",
-            "relType": 1,
-            "path": "Source\\"
+            "type": 1,
+            "name": "PageView",
+            "children": [
+              {
+                "type": 2,
+                "name": "MainView.cls",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 3,
+                "name": "MainView.lay",
+                "relType": 1,
+                "path": "Source\\"
+              }
+            ]
           }
         ]
       }
